@@ -1,2 +1,5 @@
 # Bootstrap ve CSS kullanılarak Linkedin sayfasının tasarımı yapıldı.
-![linkedin](https://user-images.githubusercontent.com/95178772/155143473-b11038f7-879c-4747-9330-374e75058a0c.png)
+Bootstrap ve CSS özellikleri kullanılarak Linkedin anasayfasının tasarımı yapıldı.
+
+![webgif](https://user-images.githubusercontent.com/95178772/158208609-22f4d284-24cc-4054-8a9b-3a26569eb068.gif)
+
